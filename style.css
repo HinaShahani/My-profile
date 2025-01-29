@@ -5,9 +5,8 @@
     font-family: sans-serif Arial, Helvetica, sans-serif;
 }
 body{
-    background-image: url(/img/ales-nesetril-Im7lZjxeLhg-unsplash.jpg);
- background-size: cover;
-    background-repeat: no-repeat;   
+        background-color: black;
+}
 .container{
 
 }
