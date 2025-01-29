@@ -4,12 +4,11 @@
     box-sizing: border-box;
     font-family: sans-serif Arial, Helvetica, sans-serif;
 }
-
-   
-.container{
+body{
     background-image: url(/img/ales-nesetril-Im7lZjxeLhg-unsplash.jpg);
-    background-size: cover;
-    background-repeat: no-repeat;
+ background-size: cover;
+    background-repeat: no-repeat;   
+.container{
 
 }
 a{
